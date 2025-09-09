@@ -7,12 +7,95 @@
 <title text="Học lái xe B1"/>
 <style key="system.basic-chart"/>
 <auto-numbering style="disabled"/>
-<scrollstate zoom="120" x="422" y="615"/>
-<selection guid="tZU5xkZLQUKW43vlHArPBQ" type="node" id="0"/>
+<scrollstate zoom="170" x="105" y="4605"/>
+<selection guid="22kHlhVYP0muRa1-VNWQ9Q" type="node" id="43"/>
 <main-centraltheme id="0"/>
 </meta>
 <topics>
-<topic id="0" parent="-1" guid="tZU5xkZLQUKW43vlHArPBQ" x="800.00" y="800.00" layout="strict-horizontal" text="Học lái xe B1"/>
+<topic id="0" parent="-1" guid="tZU5xkZLQUKW43vlHArPBQ" x="800.00" y="800.00" layout="top-down" text="Học lái xe B1"/>
+<topic id="1" parent="0" guid="H6HleGJyC0-2WW-nnWXjJA" x="383.50" y="906.31" text="Phần chữ (1 =&gt; 300)"/>
+<topic id="2" parent="1" guid="DuuhcPLGw0GrK6SXFRtnww" x="375.00" y="952.99" text="Làn đường "/>
+<topic id="3" parent="2" x="467.00" y="1013.55" text="1 phần của phần\Nđường xe chạy + phải có chiều\Nrộng cho chạy an toạn"/>
+<topic id="4" parent="1" guid="uupfTWaVv0iJRHxutDAOGw" x="425.50" y="1074.11" text="Khổ giới hạn của đường bộ"/>
+<topic id="5" parent="4" x="446.50" y="1126.67" text="Tính kích thước cả chiều\Ncao và chiều rộng"/>
+<topic id="6" parent="1" guid="vsggmH2tckmrSykvizQAWg" x="383.50" y="1179.23" text="Dải phân cách"/>
+<topic id="7" parent="6" guid="4P5zOgvMnEinnpJDFFRGwQ" x="467.00" y="1239.79" text="Phân chia 2 chiều riêng biệt\Nhoặc phân biệt cùng 1 làn giữa\Nxe cơ giới và xe thô sơ"/>
+<topic id="8" parent="1" guid="t6oYrOn3cEqY9UVYRq6zZA" x="386.50" y="1300.35" text="Vạch kẻ đường"/>
+<topic id="9" parent="8" x="435.00" y="1344.91" text="Phân chia làn đường"/>
+<topic id="10" parent="1" guid="m5f_ZNQP0Em04cDTysd9rw" x="377.50" y="1389.47" text="Người lái xe"/>
+<topic id="11" parent="10" guid="YEXWuUQEhEiyneBPNe--DQ" x="467.00" y="1434.03" text="Là người điều khiển xe cơ giới"/>
+<topic id="12" parent="1" guid="hyFFIClEnkKeftqz59QLug" x="427.00" y="1478.59" text="Các phương tiện giao thông"/>
+<topic id="13" parent="12" guid="yFr_9y3J6USmTtjbTHfWRg" x="401.00" y="1523.15" text="Xe cơ giới"/>
+<topic id="14" parent="13" x="565.00" y="1591.71" text="Xe ô tô, rơ moóc kéo bởi xe ô tô, sơ mi rơ moóc\Nđược kéo bởi ô tô đầu kéo, xe chở người bốn bánh\Ncó gắn động cơ, xe chở hàng bốn bánh có gắn động\Ncơ, xe mô tô, xe gắn máy"/>
+<topic id="15" parent="12" guid="FcgEUSAcKE6YZ5nzJPkIpQ" x="398.00" y="1660.27" text="Xe thô sơ"/>
+<topic id="16" parent="15" x="543.00" y="1720.83" text="Xe đạp, xe đạp máy, xe đạp điện, xe xích lô,\Nxe lăn dùng cho người khuyết tất, xe vật nuôi\Nkéo và các loại xe tương tự"/>
+<topic id="17" parent="12" guid="Dwdlvv1060izeyqXGNVRZA" x="435.00" y="1781.39" text="Xe máy chuyên dùng"/>
+<topic id="18" parent="17" guid="MchJztNQyESKJtBTEBVGvA" x="607.00" y="1833.95" text="Xe máy thi công (máy múc, máy ủi, xe nâng, ....)\NXe máy nông nghiệp, lâm nghiệp (máy cắt, máy cày, máy cấy, ....)"/>
+<topic id="19" parent="1" guid="7oTGQU3MZUGQZJFl92nayA" x="423.50" y="1894.51" text="Người tham gia giao thông\Nđường bộ bao gồm"/>
+<topic id="20" parent="19" guid="mEusLoDOKkWw7HJKFqTYBA" x="464.00" y="1971.07" text="Người điều khiển phương tiện\NNgười được chở\NNgười đi bộ\NNgười dẫn dắt thú"/>
+<topic id="21" parent="1" guid="WUXhzG68CU6jPrJ_i8-BFQ" x="474.50" y="2047.63" text="Người điều khiển giao thông != Người điều\Nkhiển phương tiện giao thông"/>
+<topic id="22" parent="1" guid="2NG_1Mfprke17cP8oG9C8A" x="365.00" y="2100.19" text="Dừng xe"/>
+<topic id="23" parent="22" guid="qKhBOn50Jke21z8XVtzDqw" x="427.00" y="2144.75" palette="0" colorinfo="-1" text="Đứng yên tạm thời">
+<style>
+<strokecolor r="255" g="0" b="0"/>
+</style>
+<fillcolor r="232" g="234" b="246"/>
+<strokecolor r="255" g="0" b="0"/>
+</topic>
+<topic id="24" parent="23" guid="ddqCg4wqxk-0vSVkC05WwA" x="487.50" y="2197.31" text="Mẹo: có từ dừng xe hoặc đỗ\Nxe chọn luôn ý số 2"/>
+<topic id="25" parent="22" x="545.00" y="2273.87" text="Không được tắt máy và rời khỏi vị trí lái, trừ trường\Nhợp rời khỏi vị trí lái để đóng, mở cửa xe, xếp dỡ hàng\Nhoá, kiểm tra kỹ thuật xe nhưng phải sử dụng phanh đỗ\Nxe hoặc thực hiện ...."/>
+<topic id="26" parent="1" guid="hNRBEH4MMkm9GKIu1Cj4YQ" x="356.50" y="2342.43" text="Đỗ xe"/>
+<topic id="27" parent="26" guid="pqytQ6Qu5EOMup4AgYehWg" x="447.50" y="2386.99" text="Không giới hạn thời gian">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="28" parent="26" x="455.00" y="2439.55" text="Chỉ được rời khỏi xe khi đã\Nsử dụng phanh đỗ xe"/>
+<topic id="29" parent="1" guid="vKDytiLcl0a6l0mlgsszjw" x="384.50" y="2492.11" text="Đường cao tốc"/>
+<topic id="30" parent="29" guid="6L-3Pocl0UuhRZIpYiNgIQ" x="428.00" y="2536.67" text="Là 1 cấp đường bộ">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="31" parent="1" guid="bq0-PtXPBEq4fq_RSeMnEg" x="432.50" y="2589.23" text="Chức năng phục vụ thì đương\Nbộ được phân loại ntn"/>
+<topic id="32" parent="31" guid="0hu0pELyfkKnpezICoQfYA" x="426.00" y="2641.79" text="Chọn câu dài nhất">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="33" parent="1" guid="BkLUduP88U69eW-sVm89hQ" x="438.50" y="2686.35" text="Mẹo chọn nhanh nếu có đáp án">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="34" parent="33" guid="FOtAezqNfku1U5DBK3-VVA" x="416.00" y="2730.91" text="Bị nghiêm cấm">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="35" parent="1" guid="7dTTZYiDEUajPfYuZaSXcA" x="402.00" y="2783.47" text="Các nhóm biển báo:\Ncó tất cả 5 nhóm"/>
+<topic id="36" parent="35" guid="PGC_vG3Ojk6QD6n7IupSxg" x="398.50" y="2836.03" text="Cảnh báo"/>
+<topic id="37" parent="35" guid="bVeiHlDxBEGFO2fS2IJQQg" x="382.50" y="2880.59" text="Cấm"/>
+<topic id="38" parent="35" guid="hOrlwNQWE0iLL6Dd0gv5Rg" x="398.50" y="2925.15" text="Hiệu lệnh"/>
+<topic id="39" parent="35" guid="QW3oa9OQ3EW7SQZVXjy4vg" x="392.50" y="2969.71" text="Chỉ dẫn"/>
+<topic id="40" parent="35" x="382.00" y="3014.27" text="Phụ"/>
+<topic id="41" parent="1" guid="bpubpoOLpESKdQz3XHr_gw" x="371.50" y="3058.83" text="Mẹo CSGT">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="42" parent="41" x="419.00" y="3103.39" text="Giơ 1 =&gt; Chọn 3">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="43" parent="41" guid="22kHlhVYP0muRa1-VNWQ9Q" x="419.00" y="3147.95" text="Giơ 2 =&gt; Chọn 4">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="44" parent="0" guid="AXUfT5tJRU2IqWlzggfSTg" x="957.00" y="906.31" text="Phần biển báo (301 =&gt; 485)"/>
+<topic id="45" parent="0" guid="6DOmqZgRskGf5p9ziSdBIg" x="1195.00" y="906.31" text="Phần sa hình (486 =&gt; 600)"/>
 </topics>
 <relations/>
 </mindmap>
