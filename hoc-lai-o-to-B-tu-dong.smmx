@@ -7,8 +7,8 @@
 <title text="Học lái xe B1"/>
 <style key="system.basic-chart"/>
 <auto-numbering style="disabled"/>
-<scrollstate zoom="170" x="105" y="4605"/>
-<selection guid="22kHlhVYP0muRa1-VNWQ9Q" type="node" id="43"/>
+<scrollstate zoom="150" x="-41" y="4181"/>
+<selection guid="k7WgXW9rIkORs8uZ966NxA" type="node" id="47"/>
 <main-centraltheme id="0"/>
 </meta>
 <topics>
@@ -94,8 +94,12 @@
 <textcolor r="255" g="0" b="0"/>
 </style>
 </topic>
-<topic id="44" parent="0" guid="AXUfT5tJRU2IqWlzggfSTg" x="957.00" y="906.31" text="Phần biển báo (301 =&gt; 485)"/>
-<topic id="45" parent="0" guid="6DOmqZgRskGf5p9ziSdBIg" x="1195.00" y="906.31" text="Phần sa hình (486 =&gt; 600)"/>
+<topic id="44" parent="1" guid="_5WS_8gwNUmFlOX7mzWc6Q" x="406.00" y="3200.51" text="Dừng đỗ xe so với xe\Nđang đỗ người chiều"/>
+<topic id="45" parent="44" guid="9ya3RYt1t06U4lg-q2PfPg" x="389.00" y="3253.07" text="20 mét"/>
+<topic id="46" parent="1" guid="jAuvgvRbbka7NxsEp9XE6Q" x="423.00" y="3297.63" text="Đỗ dừng xe cách lề đường"/>
+<topic id="47" parent="46" guid="k7WgXW9rIkORs8uZ966NxA" x="394.50" y="3342.19" text="0.25 mét"/>
+<topic id="48" parent="0" guid="AXUfT5tJRU2IqWlzggfSTg" x="957.00" y="906.31" text="Phần biển báo (301 =&gt; 485)"/>
+<topic id="49" parent="0" guid="6DOmqZgRskGf5p9ziSdBIg" x="1195.00" y="906.31" text="Phần sa hình (486 =&gt; 600)"/>
 </topics>
 <relations/>
 </mindmap>
