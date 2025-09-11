@@ -7,8 +7,8 @@
 <title text="Học lái xe B1"/>
 <style key="system.basic-chart"/>
 <auto-numbering style="disabled"/>
-<scrollstate zoom="150" x="-41" y="4181"/>
-<selection guid="k7WgXW9rIkORs8uZ966NxA" type="node" id="47"/>
+<scrollstate zoom="150" x="385" y="5114"/>
+<selection guid="wb79raHXF0yRQrbkX_UA-g" type="node" id="56"/>
 <main-centraltheme id="0"/>
 </meta>
 <topics>
@@ -95,11 +95,48 @@
 </style>
 </topic>
 <topic id="44" parent="1" guid="_5WS_8gwNUmFlOX7mzWc6Q" x="406.00" y="3200.51" text="Dừng đỗ xe so với xe\Nđang đỗ người chiều"/>
-<topic id="45" parent="44" guid="9ya3RYt1t06U4lg-q2PfPg" x="389.00" y="3253.07" text="20 mét"/>
+<topic id="45" parent="44" guid="9ya3RYt1t06U4lg-q2PfPg" x="389.00" y="3253.07" text="20 mét">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
 <topic id="46" parent="1" guid="jAuvgvRbbka7NxsEp9XE6Q" x="423.00" y="3297.63" text="Đỗ dừng xe cách lề đường"/>
-<topic id="47" parent="46" guid="k7WgXW9rIkORs8uZ966NxA" x="394.50" y="3342.19" text="0.25 mét"/>
-<topic id="48" parent="0" guid="AXUfT5tJRU2IqWlzggfSTg" x="957.00" y="906.31" text="Phần biển báo (301 =&gt; 485)"/>
-<topic id="49" parent="0" guid="6DOmqZgRskGf5p9ziSdBIg" x="1195.00" y="906.31" text="Phần sa hình (486 =&gt; 600)"/>
+<topic id="47" parent="46" guid="k7WgXW9rIkORs8uZ966NxA" x="394.50" y="3342.19" text="0.25 mét">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="48" parent="1" guid="6I-VDCuXF0-cjim1H7weNw" x="395.00" y="3386.75" text="Thứ tự xuống phà"/>
+<topic id="49" parent="48" guid="UZqfH8dOMEWyZ5z-_x-GwA" x="466.00" y="3439.31" text="Cơ giới =&gt; Chuyên dùng =&gt; Xe\Nthô sơ =&gt; Người đi bộ">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="50" parent="1" guid="QGomcx7l_0Oq3dGscehJMg" x="480.50" y="3491.87" text="22 giờ =&gt; 5 giờ trong khu dân cư đông người"/>
+<topic id="51" parent="50" guid="xQB1BnnvCU6BtGkuJDOFNA" x="434.50" y="3536.43" text="Không được bấm còi">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="52" parent="1" guid="9gpxbB-U3E-aemFvIQOyPA" x="429.50" y="3580.99" text="Báo hiệu đi theo vòng xuyến"/>
+<topic id="53" parent="52" guid="UQSTaS-4Mkyptf9WDtMNeQ" x="472.00" y="3625.55" text="Có biển thì phải nhường bên trái">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="54" parent="52" guid="X0yI4nuoxEyu4K2Z_9OwOA" x="430.00" y="3678.11" text="Không có biển phải\Nnhường bên phải">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="55" parent="1" guid="y8DJBqsZpUyMNv6d-MmZOQ" x="437.50" y="3730.67" text="Dừng trước vạch dừng tối thiểu"/>
+<topic id="56" parent="55" guid="wb79raHXF0yRQrbkX_UA-g" x="385.50" y="3775.23" text="5 mét">
+<style>
+<textcolor r="255" g="0" b="0"/>
+</style>
+</topic>
+<topic id="57" parent="0" guid="AXUfT5tJRU2IqWlzggfSTg" x="957.00" y="906.31" text="Phần biển báo (301 =&gt; 485)"/>
+<topic id="58" parent="0" guid="6DOmqZgRskGf5p9ziSdBIg" x="1195.00" y="906.31" text="Phần sa hình (486 =&gt; 600)"/>
 </topics>
 <relations/>
 </mindmap>
