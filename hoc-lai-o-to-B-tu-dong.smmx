@@ -7,8 +7,7 @@
 <title text="Học lái xe B1"/>
 <style key="system.basic-chart"/>
 <auto-numbering style="disabled"/>
-<scrollstate zoom="150" x="385" y="5114"/>
-<selection guid="wb79raHXF0yRQrbkX_UA-g" type="node" id="56"/>
+<scrollstate zoom="150" x="-104" y="5428"/>
 <main-centraltheme id="0"/>
 </meta>
 <topics>
@@ -135,8 +134,9 @@
 <textcolor r="255" g="0" b="0"/>
 </style>
 </topic>
-<topic id="57" parent="0" guid="AXUfT5tJRU2IqWlzggfSTg" x="957.00" y="906.31" text="Phần biển báo (301 =&gt; 485)"/>
-<topic id="58" parent="0" guid="6DOmqZgRskGf5p9ziSdBIg" x="1195.00" y="906.31" text="Phần sa hình (486 =&gt; 600)"/>
+<topic id="57" parent="1" x="352.00" y="3819.79" text="a"/>
+<topic id="58" parent="0" guid="AXUfT5tJRU2IqWlzggfSTg" x="957.00" y="906.31" text="Phần biển báo (301 =&gt; 485)"/>
+<topic id="59" parent="0" guid="6DOmqZgRskGf5p9ziSdBIg" x="1195.00" y="906.31" text="Phần sa hình (486 =&gt; 600)"/>
 </topics>
 <relations/>
 </mindmap>
